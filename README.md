@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshaya Kini, I'm a frontend developer 👨‍💻 who is passionate about web applications.
 - 🌱 I’m currently learning TypeScript and Unit Testing...
 - 💞️ I’m looking for Junior frontend developer roles ...
-- ⚡ Tech Stack: JavaScript, HTML, CSS/SCSS, React
+- ⚡ Tech Stack: JavaScript, HTML, CSS/SCSS, React, NodeJS
 - 💬 Hobbies : Painting and Baking
 
 <!---
