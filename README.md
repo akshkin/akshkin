@@ -7,7 +7,7 @@ Frontend developer
 I am passionate about coding and love building projects and expanding my skill set.
 
 * 🌍  I'm based in Malmö, Sweden
-* 🖥️  See my portfolio at [here](http://aksh-kin.netlify.app)
+* 🖥️  See my portfolio [here](http://aksh-kin.netlify.app)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects where I can add value
 
